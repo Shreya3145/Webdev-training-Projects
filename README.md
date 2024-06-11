@@ -15,8 +15,8 @@ Installation
 2. create-vite react --template react
 3. cd my-react-app
 4. npm install
-
+   
 Running the Development Server
-5. npm run dev
-6. npm run build
+1. npm run dev
+2. npm run build
 
