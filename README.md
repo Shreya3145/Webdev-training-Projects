@@ -17,6 +17,6 @@ Installation
 4. npm install
 
 Running the Development Server
-6. npm run dev
-7. npm run build
+5. npm run dev
+6. npm run build
 
