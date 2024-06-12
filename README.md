@@ -1,5 +1,5 @@
 # Webpage using Vite
-<a href="https://vitejs.dev/" target="_blank">
+<a href="https://vitejs.dev/" target="blank">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50">
 </a>
 
