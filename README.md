@@ -6,7 +6,7 @@
 This repository contains a project setup for building a modern webpage using Vite. Vite is a fast, opinionated web development build tool that offers an enhanced development experience with a focus on performance. In this project, we utilize Vite to scaffold and develop a React-based webpage. Make sure you have Node.js and npm installed on your machine. You can download and install them from nodejs.org.
 
 
-# Features
+## Features
 - Vite: Lightning-fast build tool that leverages native ES modules.
 - React: A popular JavaScript library for building user interfaces.
 - Hot Module Replacement (HMR): Ensures instant updates in the browser during development.
@@ -25,7 +25,7 @@ Running the Development Server
 1. npm run dev
 2. npm run build
 
-# Project Structure
+## Project Structure
 my-react-app/
 - ├── public/          # Static assets
 - ├── src/             # Source code
