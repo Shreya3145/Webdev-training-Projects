@@ -1,7 +1,8 @@
 # Webpage using Vite
+<img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50">
+
 This repository contains a project setup for building a modern webpage using Vite. Vite is a fast, opinionated web development build tool that offers an enhanced development experience with a focus on performance. In this project, we utilize Vite to scaffold and develop a React-based webpage. Make sure you have Node.js and npm installed on your machine. You can download and install them from nodejs.org.
 
-<img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50">
 
 # Features
 Vite: Lightning-fast build tool that leverages native ES modules.
