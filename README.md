@@ -24,14 +24,13 @@ Running the Development Server
 2. npm run build
 
 # Project Structure
-
 my-react-app/
-├── public/          # Static assets
-├── src/             # Source code
-│   ├── assets/      # Assets like images, styles
-│   ├── components/  # React components
-│   ├── App.jsx      # Main application component
-│   └── main.jsx     # Entry point
-├── index.html       # Main HTML file
-├── package.json     # Project metadata and dependencies
-└── vite.config.js   # Vite configuration file
+- ├── public/          # Static assets
+- ├── src/             # Source code
+- │   ├── assets/      # Assets like images, styles
+- │   ├── components/  # React components
+- │   ├── App.jsx      # Main application component
+- │   └── main.jsx     # Entry point
+- ├── index.html       # Main HTML file
+- ├── package.json     # Project metadata and dependencies
+- └── vite.config.js   # Vite configuration file
