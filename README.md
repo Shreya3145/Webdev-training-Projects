@@ -7,11 +7,11 @@ This repository contains a project setup for building a modern webpage using Vit
 
 
 # Features
-Vite: Lightning-fast build tool that leverages native ES modules.
-React: A popular JavaScript library for building user interfaces.
-Hot Module Replacement (HMR): Ensures instant updates in the browser during development.
-Modern JavaScript: Support for ES6+ features out of the box.
-Fast Refresh: Improved development experience with instant feedback.
+- Vite: Lightning-fast build tool that leverages native ES modules.
+- React: A popular JavaScript library for building user interfaces.
+- Hot Module Replacement (HMR): Ensures instant updates in the browser during development.
+- Modern JavaScript: Support for ES6+ features out of the box.
+- Fast Refresh: Improved development experience with instant feedback.
 
 
 ## Vite commands
