@@ -1,6 +1,6 @@
 # Webpage using Vite
 <a href="https://vitejs.dev/" target="blank">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50">
+    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="80" height="70">
 </a> 
 <a href="https://react.dev/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="React" width="80" height="70">
