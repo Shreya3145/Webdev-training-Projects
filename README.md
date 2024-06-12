@@ -1,8 +1,10 @@
 # Webpage using Vite
 <a href="https://vitejs.dev/" target="blank">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50">
-</a> + [![React Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png)](https://reactjs.org/)
-
+</a> + 
+<a href="https://react.dev/" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="React" width="50" height="50">
+</a>
 This repository contains a project setup for building a modern webpage using Vite. Vite is a fast, opinionated web development build tool that offers an enhanced development experience with a focus on performance. In this project, we utilize Vite to scaffold and develop a React-based webpage. Make sure you have Node.js and npm installed on your machine. You can download and install them from nodejs.org.
 
 
